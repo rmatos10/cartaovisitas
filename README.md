@@ -13,10 +13,6 @@ Projeto de criação de um cartão de visitas profissional
 Esse projeto foi desenvolvido para atendar a solicitação de criar um cartão de visitas profissional, 100% digital e personalizado.<br />
 
 ## :hammer_and_wrench: Tecnologias
-* Back-end
-  * __Node__ + __Koa__ + __Cors__
-  * __Prisma ORM__ para acessar o banco de dados
-  * __JWT__ para autenticação JWT (JSON Web Tokens)
 * Front-end
   * __HTML__
   * __CSS__ para estilização.
