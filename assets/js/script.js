@@ -3,8 +3,8 @@ function toggleMode() {
     const html = document.querySelector('html');
     const img = document.querySelector("#perfil img")
     if (html.classList.contains("dark")) {
-        img.setAttribute("src", "./assets/img/perfil_vermelho.png")
+        img.setAttribute("src", "./assets/img/perfil_vermelho.webp")
     } else {
-        img.setAttribute("src", "./assets/img/perfil_branco.png")
+        img.setAttribute("src", "./assets/img/perfil_branco.webp")
     }
 }

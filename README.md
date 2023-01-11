@@ -21,7 +21,8 @@ Esse projeto foi desenvolvido para atendar a solicitação de criar um cartão d
 <br />
 
 ## :camera_flash: Pré-visualização
-<img src="./assets/previsualizacao.png" width="100%" alt="Cartão de Visitas">
+<img src="./assets/previsualizacao1.webp" width="100%" alt="Cartão de Visitas">
+<img src="./assets/previsualizacao2.webp" width="100%" alt="Cartão de Visitas">
 
 ## :balance_scale: Licença
 Este projeto está licenciado sob a [licença MIT](LICENSE).
